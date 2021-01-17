@@ -10,4 +10,13 @@
 - 🔭 I’m currently focused on frontend technologies, JavaScript, React, CSS whit Sass and Bootstrap
 - ⚡ Fun fact: I write movie reviews that nobody reads, You can not read them in [Escuela de películas](https://escueladepeliculas.com/) 🎥
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroalesp&theme=blue-green)
+### 🔍 You can find me on:
+<a href="https://platzi.com/p/pedro-alejandro-silva-perez/">
+    <img width="72" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Platzi.jpg" />
+</a>
+<a href="https://twitter.com/pedroale_sp">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/pedro-alejandro-silva/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
