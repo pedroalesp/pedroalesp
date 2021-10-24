@@ -1,4 +1,4 @@
-![header](https://raw.githubusercontent.com/pedroalesp/pedroalesp/main/LinkedIn Banner Amarillo Monocromo Foto.png)
+![header](https://raw.githubusercontent.com/pedroalesp/pedroalesp/main/banner.png)
 
 ## Hello there, I'm Pedro Silva 👋 I'm a frontend developer living in Talca, Chile
 
